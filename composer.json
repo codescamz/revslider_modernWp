@@ -1,0 +1,16 @@
+{
+  "name": "codescamz/revslider_modernWp",
+  "description": "Revolution slider mod and updated for modern WP. Compatibility errors Fixed!",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/codescamz/revslider_modernWp",
+  "authors": [
+    {
+      "name": "RevolutionSlider",
+      "homepage": "https://themeforest.net/item/asana-sport-and-yoga-wordpress-theme/11465027"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
